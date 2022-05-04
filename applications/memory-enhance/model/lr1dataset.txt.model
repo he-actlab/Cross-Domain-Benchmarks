@@ -1,0 +1,6 @@
+solver_type L2R_LR
+nr_class 14
+label 6 5 8 7 14 20 18 12 10 13 22 9 11 21
+nr_feature 0
+bias -1
+w
